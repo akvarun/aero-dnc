@@ -1,0 +1,9 @@
+*aerodnc
+*.log
+*.tmp
+pycache/
+*.bak
+.DS_Store
+__pycache__/
+
+
