@@ -25,5 +25,7 @@ def run_benchmark(output_csv="results/runtime_data.csv"):
         writer.writerows(results)
 
     print(f"\nResults saved to {output_csv}")
+    print("You can plot the results using the provided plotting script.")
     return results
+
 
